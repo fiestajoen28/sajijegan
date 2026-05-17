@@ -1,0 +1,17 @@
+{
+  "name": "Fun N Trust",
+  "short_name": "FunNTrust",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "description": "Calculate steps, earn rewards, and listen to music with emotion-based themes.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3663/3663335.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

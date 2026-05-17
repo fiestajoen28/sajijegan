@@ -1,0 +1,12 @@
+{
+  "name": "Fun N Trust",
+  "description": "A dynamic app for tracking steps, rewarding movement with payments, and listening to music with emotion-based themes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
